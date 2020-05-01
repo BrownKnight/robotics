@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9b71ab1-a70c-4d2a-8c0b-cbf7e53f8aa4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="36aa39fd-d96a-4493-8941-396a2c2d796a" />
+  <component name="ProjectId" id="1YNs1bNMNP2kAuGZTF8sMRX6PIC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/notebooks" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/notebooks" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Robotics" type="PythonConfigurationType" factoryName="Python">
+      <module name="Robotics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Robotics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9b71ab1-a70c-4d2a-8c0b-cbf7e53f8aa4" name="Default Changelist" comment="" />
+      <created>1582794171279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582794171279</updated>
+      <workItem from="1582794179622" duration="399000" />
+      <workItem from="1583398867204" duration="1906000" />
+      <workItem from="1583401323085" duration="18000" />
+      <workItem from="1583401408424" duration="3748000" />
+      <workItem from="1583416512570" duration="599000" />
+      <workItem from="1583419568541" duration="1163000" />
+      <workItem from="1583930565529" duration="6664000" />
+      <workItem from="1583951163296" duration="205000" />
+      <workItem from="1584003396547" duration="4377000" />
+      <workItem from="1584011711875" duration="3456000" />
+      <workItem from="1584015584240" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="506" y="190" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1584003661192">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="506" y="190" key="#com.intellij.ide.macro.MacrosDialog/0.0.1440.900@0.0.1440.900" timestamp="1584003661192" />
+    <state x="495" y="190" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1584010858988">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="495" y="190" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1440.900@0.0.1440.900" timestamp="1584010858988" />
+    <state x="369" y="152" width="698" height="653" key="EditFileWatcherDialog" timestamp="1584007085314">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="369" y="152" width="698" height="653" key="EditFileWatcherDialog/0.0.1440.900@0.0.1440.900" timestamp="1584007085314" />
+    <state x="474" y="240" key="EnvironmentVariablesDialog" timestamp="1584003497476">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="474" y="240" key="EnvironmentVariablesDialog/0.0.1440.900@0.0.1440.900" timestamp="1584003497476" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1584011221392">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584011221392" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1584011221391">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584011221391" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1584011221391">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584011221391" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1584011221392">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584011221392" />
+    <state x="521" y="375" key="ReplaceDuplicatesPrompt" timestamp="1584013071103">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="521" y="375" key="ReplaceDuplicatesPrompt/0.0.1440.900@0.0.1440.900" timestamp="1584013071103" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1584011178941">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1584011178941" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1584015600822">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1584015600822" />
+    <state x="378" y="72" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583940648914">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="378" y="72" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900@0.0.1440.900" timestamp="1583940648914" />
+    <state x="482" y="88" key="refactoring.ChangeSignatureDialog" timestamp="1583940679481">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="482" y="88" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1583940679481" />
+    <state x="319" y="115" key="scopes" timestamp="1584003510044">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="319" y="115" key="scopes/0.0.1440.900@0.0.1440.900" timestamp="1584003510044" />
+  </component>
+</project>
